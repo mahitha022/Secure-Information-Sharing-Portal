@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secure Information Portal</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Secure Information Portal</h1>
+        <input type="password" id="password" placeholder="Enter Password" required autofocus>
+        <button id="openButton">Open</button>
+
+        <div id="dataContainer" style="display:none;">
+            <textarea id="info" placeholder="Enter your information here..." autofocus></textarea>
+            <button id="saveButton">Save</button>
+        </div>
+
+        <nav>
+            <a href="/about">About Us</a>
+        </nav>
+    </div>
+
+    <script src="static/script.js"></script>
+</body>
+</html>

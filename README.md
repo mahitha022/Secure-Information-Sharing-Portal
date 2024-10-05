@@ -1,8 +1,6 @@
 
 # Secure Information Sharing Portal
 
-#### Video Demo:  https://youtu.be/0xrtrNDdHTE?si=QGAEXCYu-I6Rwej7
-
 #### Description:
 The Secure Information Sharing Portal is a web application designed to allow users to securely store and retrieve sensitive information using password-based encryption. The application leverages modern cryptographic techniques to ensure that data remains confidential and can only be accessed by users who possess the correct password. By employing end-to-end encryption, the portal enhances data security, ensuring that user information is safeguarded against unauthorized access.
 

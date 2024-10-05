@@ -28,3 +28,14 @@ While developing this project, several design choices were made to enhance secur
 3. **Database Management:** SQLite was selected for its simplicity and ease of use. It allows for efficient storage of user credentials and encrypted data without the overhead of managing a more complex database system.
 
 In conclusion, the Secure Information Sharing Portal is a practical application of modern cryptographic techniques, providing users with a secure platform for storing and accessing sensitive information. By integrating encryption and a user-friendly interface, this project demonstrates the importance of security in today's digital landscape.
+
+
+
+### Prerequisites
+- Python 3.x installed on your system.
+- Install the required dependencies (listed in `requirements.txt`).
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mahitha022/Secure-Information-Sharing-Portal.git
